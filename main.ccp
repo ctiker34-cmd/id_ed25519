@@ -6,5 +6,8 @@ int main(int argc, char** argv) {
  printf("Введите своё volodia:\n");
  str = gets(str);
  printf("Привет , %s", str);
+ scanf("%s", str);
+ puts("Привет");
+ Puts(str);
  return 0;
 }
